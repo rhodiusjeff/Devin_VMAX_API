@@ -9,3 +9,7 @@ The API specification is located in `specs/VMAX-API-Specification-v1.0.md`
 ## Project Status
 
 Repository set up and ready for development.
+
+## Verification
+
+This section was added to verify Devin's PR workflow access.
